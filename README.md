@@ -24,8 +24,8 @@ Try Live demo : [Demo](https://emleonstz.github.io/karata/)
 ## 🚀 Installation & Setup
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/karata-memory-game.git
-   cd karata-memory-game
+   git clone https://github.com/emleonstz/karata.git
+   cd karata
    ```
 2. Install **live-server** globally if you haven't already:
    ```sh
