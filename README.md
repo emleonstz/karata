@@ -1,5 +1,3 @@
-# Karata - A Phaser 3 Memory Card Game
-
 ## About the Game
 Karata is a fun card-flipping memory game built using **Phaser 3**. The goal is to match pairs of identical cards within the shortest time possible.
 
