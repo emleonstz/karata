@@ -48,9 +48,6 @@ Karata is a fun card-flipping memory game built using **Phaser 3**. The goal is 
 ## 📜 License
 This project is licensed under the Apache2 License.
 
-## 🤝 Contributing
-Feel free to fork this repository and submit pull requests for improvements!
-
 ---
 
 
