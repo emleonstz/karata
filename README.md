@@ -1,8 +1,8 @@
-## About the Game
-Karata is a fun card-flipping memory game built using **Phaser 3**. The goal is to match pairs of identical cards within the shortest time possible.
+## Karata
+Karata is a fun card-flipping memory game built using **Phaser 3**. To play you need to match pairs of identical cards within the shortest time possible.
 
 ## Demo
-Try Live demo : [Demo](https://emleonstz.github.io/karata/)
+Try demo : [Demo](https://emleonstz.github.io/karata/)
 
 
 ## 🎮 Features
